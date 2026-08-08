@@ -1,0 +1,12 @@
+# backend/requirements.txt
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+pydantic
+pydantic-settings
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+slowapi
+python-dotenv
